@@ -3,3 +3,14 @@ li {
   padding: 1em;
   border-bottom: 2px solid blue;
 }
+.Google {
+  border: 0;
+left: 0;
+background-color: #f1f1f1;
+border-bottom: 1px solid #666;
+border-color: #e5e5e5;
+}
+
+#numb_results {
+  margin-top: 1em;
+}
